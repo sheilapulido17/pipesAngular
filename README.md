@@ -1,0 +1,2 @@
+# pipesAngular
+pipes en Angular
